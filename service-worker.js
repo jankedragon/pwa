@@ -1,10 +1,10 @@
 const CACHE_NAME = 'clock-pwa-cache-v1';
 const urlsToCache = [
-  '/',
-  '/index.html',
-  '/css/style.css',
-  '/js/app.js',
-  '/manifest.json'
+  './',
+  './index.html',
+  './css/style.css',
+  './js/app.js',
+  './manifest.json'
 ];
 
 // Install event
